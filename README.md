@@ -2,4 +2,4 @@
 
 - [x] feature 2
 
-- [ ] feature 3
+- [ ] feature 3 (implementing feature 3)
